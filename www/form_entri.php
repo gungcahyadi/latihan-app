@@ -1,6 +1,6 @@
 	<h2 class="text-center text-white">FORM ENTRI</h2>
 <hr>
-	<form method="post" action="192.168.43.235/index.php">
+	<form method="post" action="index.php">
 		<table class="table table-striped">
 			<tr>
 				<td class="col-3">Nama Karyawan</td>
