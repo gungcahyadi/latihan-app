@@ -3,14 +3,14 @@
 <widget xmlns = "http://www.w3.org/ns/widgets" 
    xmlns:gap = "http://phonegap.com/ns/1.0" id = "com.tutorialspoint.onlineviewer" version = "1.0">
    
-   <name>eheeee</name>
+   <name>The Apps</name>
    
    <description>
-      aplikasi buriqq
+      the simple CRUD Apps with jQuery
    </description>
    
    <author href = "http://tutorialspoint.com" email = "contact@tutorialspoint.com">
-      komenkz
+      gungcahyadi
    </author>
    
    <preference name = "permissions" value = "none"/>
