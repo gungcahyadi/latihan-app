@@ -6,7 +6,7 @@
 	?>
 	<h2 class="text-center text-white">FORM EDIT</h2>
 	<hr>
-	<form method="post" action="index.php">
+	<form method="post" action="192.168.43.235/index.php">
 		<table class="table table-striped">
 			<input name="id_karyawan" type="hidden" id="id_karyawan" value="<?= $data['id_karyawan'] ?>">
 			<tr>

@@ -3,7 +3,7 @@
 <hr>
 
 
-	<form method="post" action="index.php">
+	<form method="post" action="192.168.43.235/index.php">
 	<?php include 'koneksi.php';
 	$id = $_GET['id_karyawan'];
 	$sql = "SELECT * FROM karyawan WHERE id_karyawan = '$id'";
